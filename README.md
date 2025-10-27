@@ -1,2 +1,110 @@
 # project-euler-challenges
+
 In this ripo, i will solve the problems in the project euler challenge
+
+## 🚀 Progress
+
+| #   | Problem     | Status |
+| --- | ----------- | ------ |
+| 1   | Problem 1   | ✅     |
+| 2   | Problem 2   | ⏳     |
+| 3   | Problem 3   | ⏳     |
+| 4   | Problem 4   | ⏳     |
+| 5   | Problem 5   | ⏳     |
+| 6   | Problem 6   | ⏳     |
+| 7   | Problem 7   | ⏳     |
+| 8   | Problem 8   | ⏳     |
+| 9   | Problem 9   | ⏳     |
+| 10  | Problem 10  | ⏳     |
+| 11  | Problem 11  | ⏳     |
+| 12  | Problem 12  | ⏳     |
+| 13  | Problem 13  | ⏳     |
+| 14  | Problem 14  | ⏳     |
+| 15  | Problem 15  | ⏳     |
+| 16  | Problem 16  | ⏳     |
+| 17  | Problem 17  | ⏳     |
+| 18  | Problem 18  | ⏳     |
+| 19  | Problem 19  | ⏳     |
+| 20  | Problem 20  | ⏳     |
+| 21  | Problem 21  | ⏳     |
+| 22  | Problem 22  | ⏳     |
+| 23  | Problem 23  | ⏳     |
+| 24  | Problem 24  | ⏳     |
+| 25  | Problem 25  | ⏳     |
+| 26  | Problem 26  | ⏳     |
+| 27  | Problem 27  | ⏳     |
+| 28  | Problem 28  | ⏳     |
+| 29  | Problem 29  | ⏳     |
+| 30  | Problem 30  | ⏳     |
+| 31  | Problem 31  | ⏳     |
+| 32  | Problem 32  | ⏳     |
+| 33  | Problem 33  | ⏳     |
+| 34  | Problem 34  | ⏳     |
+| 35  | Problem 35  | ⏳     |
+| 36  | Problem 36  | ⏳     |
+| 37  | Problem 37  | ⏳     |
+| 38  | Problem 38  | ⏳     |
+| 39  | Problem 39  | ⏳     |
+| 40  | Problem 40  | ⏳     |
+| 41  | Problem 41  | ⏳     |
+| 42  | Problem 42  | ⏳     |
+| 43  | Problem 43  | ⏳     |
+| 44  | Problem 44  | ⏳     |
+| 45  | Problem 45  | ⏳     |
+| 46  | Problem 46  | ⏳     |
+| 47  | Problem 47  | ⏳     |
+| 48  | Problem 48  | ⏳     |
+| 49  | Problem 49  | ⏳     |
+| 50  | Problem 50  | ⏳     |
+| 51  | Problem 51  | ⏳     |
+| 52  | Problem 52  | ⏳     |
+| 53  | Problem 53  | ⏳     |
+| 54  | Problem 54  | ⏳     |
+| 55  | Problem 55  | ⏳     |
+| 56  | Problem 56  | ⏳     |
+| 57  | Problem 57  | ⏳     |
+| 58  | Problem 58  | ⏳     |
+| 59  | Problem 59  | ⏳     |
+| 60  | Problem 60  | ⏳     |
+| 61  | Problem 61  | ⏳     |
+| 62  | Problem 62  | ⏳     |
+| 63  | Problem 63  | ⏳     |
+| 64  | Problem 64  | ⏳     |
+| 65  | Problem 65  | ⏳     |
+| 66  | Problem 66  | ⏳     |
+| 67  | Problem 67  | ⏳     |
+| 68  | Problem 68  | ⏳     |
+| 69  | Problem 69  | ⏳     |
+| 70  | Problem 70  | ⏳     |
+| 71  | Problem 71  | ⏳     |
+| 72  | Problem 72  | ⏳     |
+| 73  | Problem 73  | ⏳     |
+| 74  | Problem 74  | ⏳     |
+| 75  | Problem 75  | ⏳     |
+| 76  | Problem 76  | ⏳     |
+| 77  | Problem 77  | ⏳     |
+| 78  | Problem 78  | ⏳     |
+| 79  | Problem 79  | ⏳     |
+| 80  | Problem 80  | ⏳     |
+| 81  | Problem 81  | ⏳     |
+| 82  | Problem 82  | ⏳     |
+| 83  | Problem 83  | ⏳     |
+| 84  | Problem 84  | ⏳     |
+| 85  | Problem 85  | ⏳     |
+| 86  | Problem 86  | ⏳     |
+| 87  | Problem 87  | ⏳     |
+| 88  | Problem 88  | ⏳     |
+| 89  | Problem 89  | ⏳     |
+| 90  | Problem 90  | ⏳     |
+| 91  | Problem 91  | ⏳     |
+| 92  | Problem 92  | ⏳     |
+| 93  | Problem 93  | ⏳     |
+| 94  | Problem 94  | ⏳     |
+| 95  | Problem 95  | ⏳     |
+| 96  | Problem 96  | ⏳     |
+| 97  | Problem 97  | ⏳     |
+| 98  | Problem 98  | ⏳     |
+| 99  | Problem 99  | ⏳     |
+| 100 | Problem 100 | ⏳     |
+
+✅ = Solved  ⏳ = In progress / Not yet solved
